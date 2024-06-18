@@ -1,4 +1,4 @@
-## Boas Vindas ao meu perfil 😎
+### Boas Vindas ao meu perfil 😎
 
 - Estou estudando no [Alura](https//www.alura.com.br)
 - Estou me desenvolvendo na linguagem javaScript
